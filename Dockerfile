@@ -1,6 +1,6 @@
 FROM centos
 
-MAINTAINER fallsea
+MAINTAINER fallsea@wueasy.com
 
 RUN yum install wget -y \
     && mkdir /elasticjob \
